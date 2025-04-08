@@ -6,7 +6,7 @@
 
 -   🏂 Sports addict 🏉
 -   🎶 Future bassist 🎸
--   ⚡ AI enthusiast 🤖🧠
+-   🤖 AI enthusiast 🧠
 
 <br/>
 
@@ -88,7 +88,7 @@
 
 <br/>
 
-## ⚙️ Git Analytics
+## ⚙️ Git Analytics ⚡
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=frangoni&theme=dark&show_icons=true" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangoni&theme=dark&layout=compact" width="320" /></p>
