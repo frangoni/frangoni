@@ -1,6 +1,7 @@
 # Hi there, my name is Fran 👋
-
-Nice to meet you :)
+😁 Contact me here!
+-   [Linkedin][linkedin]
+-   [Personal website][portfolio]
 
 ## I am a 🎨Full Stack Developer🖥️ and a 👨‍🎓Business Administrator📈
 
