@@ -2,7 +2,7 @@
 
 Nice to meet you :)
 
-## I am a Full Stack Developer🎨🖥️ and a Business Administrator👨‍🎓📈
+## I am a 🎨Full Stack Developer🖥️ and a 👨‍🎓Business Administrator📈
 
 -   🏂 Sports addict 🏉
 -   🎶 Future bassist 🎸
