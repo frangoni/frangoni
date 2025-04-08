@@ -28,9 +28,6 @@
       <img alt="TypeScript" width="32px" src="assets/typescript.png" />
     </td>
     <td align="center" width="96">
-      <img alt="Visual Studio Code" width="32px" src="assets/vscode.svg" />
-    </td>
-    <td align="center" width="96">
       <img alt="HTML5" width="32px" src="assets/html5.png" />
     </td>
     <td align="center" width="96">
@@ -47,12 +44,18 @@
     </td>
     <td align="center" width="96">
       <img alt="Vite.js" width="32px" src="assets/vite.svg" />
+    </td>    
+    <td align="center" width="96">
+      <img alt="GSAP" width="32px" src="assets/gsap.svg" />
+    </td>  
+    <td align="center" width="96">
+      <img alt="Webflow" width="32px" src="assets/webflow.svg" />
     </td>
+  </tr>
+  <tr>  
     <td align="center" width="96">
       <img alt="Node.js" width="32px" src="assets/nodejs.png" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img alt="GraphQL" width="32px" src="assets/graphql.png" />
     </td>
@@ -75,13 +78,10 @@
       <img alt="GitHub" width="32px" src="assets/github.webp" />
     </td>
     <td align="center" width="96">
-      <img alt="GSAP" width="32px" src="assets/gsap.svg" />
-    </td>
-    <td align="center" width="96">
       <img alt="Figma" width="32px" src="assets/figma.png" />
-    </td>
+    </td>    
     <td align="center" width="96">
-      <img alt="Webflow" width="32px" src="assets/webflow.svg" />
+      <img alt="Visual Studio Code" width="32px" src="assets/vscode.svg" />
     </td>
   </tr>
 </table>
