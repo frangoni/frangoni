@@ -49,10 +49,5 @@
 
 <hr/>
 
-### 😁 Contact me here!
-
--   [Linkedin][linkedin]
--   [Personal website][portfolio]
-
 [portfolio]: https://betodev.netlify.app/
 [linkedin]: https://www.linkedin.com/in/francisco-go%C3%B1i-piuma-dev/
