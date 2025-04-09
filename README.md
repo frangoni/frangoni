@@ -1,3 +1,5 @@
+<hr/>
+
 # Hi there, my name is Fran 👋
 😁 Contact me here!
 -   [Linkedin][linkedin]
